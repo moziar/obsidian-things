@@ -64,7 +64,7 @@ body {
   --strong-gradient-color-2: #dcb9fc;
   --strong-gradient-aurora: linear-gradient(62deg, #87c2fd, #dcb9fc);
   --strong-gradient-fleet: linear-gradient(62deg, #6E90F1, #9ECFEF);
-  --strong-gradient-snipestlab: linear-gradient(62deg, #29aee9, #28dac9);
+  --strong-gradient-snippetslab: linear-gradient(62deg, #29aee9, #28dac9);
   --strong-gradient-custom: linear-gradient(62deg, var(--strong-gradient-color-1), var(--strong-gradient-color-2));
   --strong-gradient: var(--strong-gradient-aurora);
 
@@ -1301,8 +1301,8 @@ settings:
             label: Fleet
             value: var(--strong-gradient-fleet)
         - 
-            label: SnipetsLab
-            value: var(--strong-gradient-snipestlab)
+            label: SnippetsLab
+            value: var(--strong-gradient-snippetslab)
         - 
             label: Custom
             value: var(--strong-gradient-custom)
